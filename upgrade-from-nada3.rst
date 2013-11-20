@@ -53,27 +53,27 @@ Linking your NADA 3 data files to NADA 4
 The upgrade script has only upgraded the database. It is now necessary to tell the
 NADA4 where to locate the datafiles that were uploaded to the original NADA 3 site.
 There are two options available:
-1 9
- Option 1: Copy the datafiles folder from NADA 3 to NADA 4. This works
+
+* ption 1: Copy the datafiles folder from NADA 3 to NADA 4. This works
 best if you have only a few studies and the datafiles folder size is small enough
 to be moved easily from one location to another.
- Option 2: If it is not possible to easily move the datafiles folder from NADA 3
+* ption 2: If it is not possible to easily move the datafiles folder from NADA 3
 to NADA 4, you can tell NADA 4 the location of the datafiles without
 moving the files. Here are the steps:
- Use your NADA 3 administrator login credentials to login to your new
+* se your NADA 3 administrator login credentials to login to your new
 NADA 4 site.
- Click on Site administration in the top right corner of the screen.
- Go to the “Settings” menu and click on the “Settings” sub-menu .
- Under Site configurations, expand the “Survey Catalog Settings” section
- For the setting “Catalog folder”, enter the relative or full path to where the
+* Click on Site administration in the top right corner of the screen.
+* Go to the “Settings” menu and click on the “Settings” sub-menu .
+* Under Site configurations, expand the “Survey Catalog Settings” section
+* For the setting “Catalog folder”, enter the relative or full path to where the
 NADA 3 datafiles folder is located. For example, if the nada3 datafiles are
 located on c:/nada3/datafiles, enter that path here.
- Save the configurations by clicking on the update button. If now errors are
+* Save the configurations by clicking on the update button. If now errors are
 shown then you have successfully updated the folder path.
- Check your new NADA 4 site to make sure the migration was successful
- Check the user administration page from site administration to make sure
+* Check your new NADA 4 site to make sure the migration was successful
+* Check the user administration page from site administration to make sure
 the users from the nada3 site were migrated.
-2 0
- Check the “Data Catalog” page and view the studies by clicking on the
+
+* Check the “Data Catalog” page and view the studies by clicking on the
 study title to make sure the study information pages are correct.
- Check the site menus are the same as the NADA 3 site.
+* Check the site menus are the same as the NADA 3 site.
