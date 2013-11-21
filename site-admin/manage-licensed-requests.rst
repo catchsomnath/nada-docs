@@ -7,11 +7,11 @@ Datasets that are assigned the Access Type Licensed require approval from the NA
 From the site administration there are a number of ways to see if any licensed requests have been received.
 
 
-Go to the dashboard. Pending requests show up as red in the catalog quicj summary section. Clicking on this link goes to the Licensed Survey Requests management page.
+Go to the dashboard - Pending requests show up as red in the catalog quick summary section. Clicking on this link goes to the Licensed Survey Requests management page.
  
+OR
 
-Or go to the Studies link on the top menu and select Licensed Requests from the submenu.
-
+Go to the Studies link on the top menu and select Licensed Requests from the submenu. 
  
 The link shows a page with a list Licensed Requests received. The status column indicated the Pending requests.
 
@@ -20,16 +20,17 @@ Click on the Edit link for to process a request.
 
 The Request information tab shows a summary of the information provided by the applicant.
 
+To Approve or Deny or request further information for the request. 
 
-To Approve or Deny or request further information for the request. Click on the Process tab. 
+Click on the Process tab. 
 
 Select Approve to approve the request. (other options include Deny as well as Request more information from the applicant).
 
 Select the files that the user will be authorized to download – it is also possible to enter a maximum number of downloads and expiry date for downloads.
 
-	Enter any comments to be sent to the applicant
-	Select Notify user by email to notify them that the application has been processed.
-	Select Update.
+*	Enter any comments to be sent to the applicant
+*	Select Notify user by email to notify them that the application has been processed.
+*	Select Update.
 
 The remaining tabs: 
 
