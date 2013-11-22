@@ -4,20 +4,22 @@ Installation
 Download the latest NADA
 =========================
 
-Download a copy of the NADA 4 software from the IHSN: http://ihsn.org/nada
+* Download a copy of the NADA 4 software from the IHSN: http://ihsn.org/nada
+
+* Open and extract (unzip) the files to your local hard drive using an appropriate compression program. If you do not already have such a compression program there are many open source compression programs available. For Windows use the built-in compression software wizard or alternatively the 7-ZIP File Manager which is a free compression program. On Linux systems the same tasks can be achieved from the command line, or once again, through the use of a separate program. Mac OSX has a number of options - third party, and built-in, as well as from the command line.
+
+.. image:: images/unzip-nada4-folder-structure.png
 
 Setup application folder
 =========================
 
-Copy the files to a folder in the web server root folder. If installing on a localhost - for example the computer currently being working on – then copy and paste (or move) the files into the root folder (or a sub-folder) of the web server. If, however, the server is running on a remote host (such as an ISP), then this process will involve the use of a FTP client program or file manager from the ISP’s Cpanel.
-
-.. image:: images/unzip-nada4-folder-structure.png
+* Copy the files to a folder in the web server root folder. If installing on a localhost - for example the computer currently being working on – then copy and paste (or move) the files into the root folder (or a sub-folder) of the web server. If, however, the server is running on a remote host (such as an ISP), then this process will involve the use of a FTP client program or file manager from the ISP’s Cpanel.
 
 .. note::
 
 	The folder name chosen will in many cases become the URL for the catalog. Examples for a folder name might be – data, microdata, catalog etc.
 
-The root folder is located in different places depending upon the operating system/distribution and web server package you are using and it might be called htdocs, httpd, or www. On Windows servers this might be located in the inetpub directory and on Linux in the /var directory. Consult the documentation for the distribution being used or contact the ISP if unsure where the root web folder is.
+* The root folder is located in different places depending upon the operating system/distribution and web server package you are using and it might be called htdocs, httpd, or www. On Windows servers this might be located in the inetpub directory and on Linux in the /var directory. Consult the documentation for the distribution being used or contact the ISP if unsure where the root web folder is.
 
 Folder permissions
 ===================
