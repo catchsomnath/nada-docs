@@ -41,6 +41,9 @@ Configure MySQL database
 ====================
 
 #. Browse to the **your-nada-web-folder/application/config** folder.
+
+.. image:: images/database-dot-php-path.png
+
 #. Open the **database.php** file in a text editor like Notepad or Notepad ++, and change the database user name and password to match the database user name and password. 
 #. Optional: change the database name to use another name. 
 #. Save the file.
