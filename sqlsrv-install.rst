@@ -48,7 +48,7 @@ The steps are for version 2.0 but the same applies to version 3.0
 
 #. The setup file will extract a number of .dll files to your PHP extension folder.
 
-#. Browse to the PHP extension folder E.g. c:\php\ext.Notice there are multiple dll files included all referencing _sqlsrv. /
+#. Browse to the PHP extension folder E.g. c:\php\ext.Notice there are multiple dll files included all referencing _sqlsrv. 
 
    .. image:: images/multiple-php-dll.png
 
@@ -60,7 +60,7 @@ The steps are for version 2.0 but the same applies to version 3.0
 
 	* The version of PHP. E.g. 5.3
 	* Which compiler is used e.g. either VC9 or VC6
-	* Check whether Thread Safety is enabled or not.
+	* Check whether Thread Safety is enabled or not. 
 
 	.. image:: images/php-compiler-thread.png
 
