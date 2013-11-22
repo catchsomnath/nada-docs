@@ -101,6 +101,8 @@ Click on the Install Database button and complete the form to create an initial 
 
 	create a complex password at least 12 characters long with some uppercase, punctuation and numbers to aid security of your site. Do not forget this username and password!
 
+.. image:: images/admin-account-image.png
+	
 **Congratulations: Launch the new site**
 
  
