@@ -91,6 +91,8 @@ Running the installer
 
 Open web browser to the location of the NADA installation. For example: http://your-domain/nada-folder-name, or localhost/nada-folder-name.
 
+.. image:: images/nada-installer.png
+
 Check that all settings are marked with a green tick and fix any that are not on your webserver before running the installer.
 
 Click on the Install Database button and complete the form to create an initial Site Administrator account.
