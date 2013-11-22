@@ -11,6 +11,8 @@ Setup application folder
 
 Copy the files to a folder in the web server root folder. If installing on a localhost - for example the computer currently being working on – then copy and paste (or move) the files into the root folder (or a sub-folder) of the web server. If, however, the server is running on a remote host (such as an ISP), then this process will involve the use of a FTP client program or file manager from the ISP’s Cpanel.
 
+.. image:: images/unzip-nada4-folder-structure.png
+
 .. note::
 
 	The folder name chosen will in many cases become the URL for the catalog. Examples for a folder name might be – data, microdata, catalog etc.
