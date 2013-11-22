@@ -105,6 +105,8 @@ Click on the Install Database button and complete the form to create an initial 
 	
 **Congratulations: Launch the new site**
 
+.. image:: images/nada4-launch.png
+
  
 
 
