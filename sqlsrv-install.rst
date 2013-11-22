@@ -93,9 +93,6 @@ This step is only required if SQL Server is not on the same server as your web s
 2. Open ODBC and switch to the tab “Drivers”
 
 	.. image:: images/odbc-data-source.png
-	   :height: 200px
-	   :width: 200px
-	   :align: center
 
 Download the Microsoft SQL Client
 -----------------------------------
@@ -139,13 +136,17 @@ Fill in the database connection settings for the database created for NADA.
 Save the changes.
 
 Running the installer
-Open a web browser to the location of the NADA installation. For example:http://your-domain/nada-folder-name, or localhost/nada-folder-name.
+---------------------
 
-If the Microsoft database connection is setup correctly, you should see the nada installer.
+* Open a web browser to the location of the NADA installation. For example:http://your-domain/nada-folder-name, or localhost/nada-folder-name.
 
-Check that all settings are marked with a green tick and fix any that are not on your webserver before running the installer.
+* If the Microsoft database connection is setup correctly, you should see the nada installer.
 
-Click on the Install Database button and complete the form to create an initial Site Administrator account. 
+	.. image:: images/nada-installer.png
+
+* Check that all settings are marked with a green tick and fix any that are not on your webserver before running the installer.
+
+* Click on the Install Database button and complete the form to create an initial Site Administrator account. 
 
 .. note::
 
