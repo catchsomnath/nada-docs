@@ -81,7 +81,11 @@ Testing the SQLSRV drivers and SQL Client
 
 To make sure the driver/extension is installed correctly. Reload the phpinfo page and check if the extension SQLSRV is listed on the page.
 
+	.. image:: images/sqlsrv-extention-test.png
+
 If the extension is not listed on the page, recheck if the correct php.ini file has been edited. To locate the php.ini file being used by PHP look at the output of the phpinfo page in the section shown below.
+
+	.. image:: images/php-ini-path.png
 
 This step is only required if SQL Server is not on the same server as your web server. To check if the SQL Client is already installed or not, follow the steps below:
 
