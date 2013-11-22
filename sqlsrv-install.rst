@@ -92,6 +92,8 @@ This step is only required if SQL Server is not on the same server as your web s
 1. Open Control Panel, Administrative Tools on your server
 2. Open ODBC and switch to the tab “Drivers”
 
+	.. image:: images/odbc-data-source.png
+
 Download the Microsoft SQL Client
 -----------------------------------
 
