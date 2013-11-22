@@ -8,7 +8,7 @@ Download the latest NADA
 
 * Open and extract (unzip) the files to your local hard drive using an appropriate compression program. If you do not already have such a compression program there are many open source compression programs available. For Windows use the built-in compression software wizard or alternatively the 7-ZIP File Manager which is a free compression program. On Linux systems the same tasks can be achieved from the command line, or once again, through the use of a separate program. Mac OSX has a number of options - third party, and built-in, as well as from the command line.
 
-.. image:: images/unzip-nada4-folder-structure.png
+  .. image:: images/unzip-nada4-folder-structure.png
 
 Setup application folder
 =========================
@@ -32,7 +32,7 @@ Change the permissions for the following folders and their contents to **READ/WR
 
 	For added security, it is strongly recommended that the location of the datafiles directory be changed after installation to a location outside your web root structure.
 
-.. image:: images/data-file-outside-webroot.png
+    .. image:: images/data-file-outside-webroot.png
 	
 * **your-nada-web-folder/cache** – this is where cached web pages will be stored
 * **your-nada-web-folder/logs** – this is where the log files will be stored
@@ -42,7 +42,7 @@ Configure MySQL database
 
 #. Browse to the **your-nada-web-folder/application/config** folder.
 
-.. image:: images/database-dot-php-path.png
+   .. image:: images/database-dot-php-path.png
 
 #. Open the **database.php** file in a text editor like Notepad or Notepad ++, and change the database user name and password to match the database user name and password. 
 #. Optional: change the database name to use another name. 
@@ -91,7 +91,7 @@ Running the installer
 
 Open web browser to the location of the NADA installation. For example: http://your-domain/nada-folder-name, or localhost/nada-folder-name.
 
-.. image:: images/nada-installer.png
+   .. image:: images/nada-installer.png
 
 Check that all settings are marked with a green tick and fix any that are not on your webserver before running the installer.
 
@@ -101,11 +101,11 @@ Click on the Install Database button and complete the form to create an initial 
 
 	create a complex password at least 12 characters long with some uppercase, punctuation and numbers to aid security of your site. Do not forget this username and password!
 
-.. image:: images/admin-account-image.png
+   .. image:: images/admin-account-image.png
 	
 **Congratulations: Launch the new site**
 
-.. image:: images/nada4-launch.png
+   .. image:: images/nada4-launch.png
 
  
 
