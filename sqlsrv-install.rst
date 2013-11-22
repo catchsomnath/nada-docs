@@ -50,7 +50,7 @@ The steps are for version 2.0 but the same applies to version 3.0
 
 #. Browse to the PHP extension folder E.g. c:\php\ext.Notice there are multiple dll files included all referencing _sqlsrv. /
 
-.. image:: images/multiple-php-dll.png
+   .. image:: images/multiple-php-dll.png
 
 #. To find out which driver library is suitable for your version of PHP, create a php file using a text editor like Notepad e.g. info.php and place this code inside it: ::
 
