@@ -32,6 +32,8 @@ Change the permissions for the following folders and their contents to **READ/WR
 
 	For added security, it is strongly recommended that the location of the datafiles directory be changed after installation to a location outside your web root structure.
 
+.. image:: images/data-file-outside-webroot.png
+	
 * **your-nada-web-folder/cache** – this is where cached web pages will be stored
 * **your-nada-web-folder/logs** – this is where the log files will be stored
 
