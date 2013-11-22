@@ -93,6 +93,7 @@ This step is only required if SQL Server is not on the same server as your web s
 2. Open ODBC and switch to the tab “Drivers”
 
 	.. image:: images/odbc-data-source.png
+	   :scale: 50 %
 
 Download the Microsoft SQL Client
 -----------------------------------
