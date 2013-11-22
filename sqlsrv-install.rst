@@ -152,4 +152,8 @@ Running the installer
 
 	Create a complex password of atleast 12 characters long with some uppercase, punctuation and numbers to aid security of your site. Do not forget this username and password!
 
+   .. image:: images/admin-account-image.png
+	
+**Congratulations: Launch the new site**
 
+   .. image:: images/nada4-launch.png
