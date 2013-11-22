@@ -62,7 +62,7 @@ The steps are for version 2.0 but the same applies to version 3.0
 	* Which compiler is used e.g. either VC9 or VC6
 	* Check whether Thread Safety is enabled or not.
 
-	.. image:: images/php-compiler-thread.png
+.. image:: images/php-compiler-thread.png
 
 #. With the above values you would choose the file: 
 	php_sqlsrv_53_nts_vc9.dll
