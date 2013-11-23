@@ -98,6 +98,5 @@ http://[your-nada-4-site]/index.php/admin/catalog/batch_refresh
 
 *	Select all studies
 
-
 *	Click on the “Refresh DDI” button
 
