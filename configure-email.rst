@@ -42,7 +42,7 @@ The quickest way to test if the email settings are working is to use the “forg
 
 *	Click on forgot password 
 
-..image:: images/forgot-password.png
+.. image:: images/forgot-password.png
  
 *	Enter the administrator or any other accounts email address. 
 
