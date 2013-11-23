@@ -58,7 +58,7 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
 
 **There are two options available:**
 
-** Option 1:**
+**Option 1:**
 
 Copy the datafiles folder from NADA 3 to NADA 4. This works best if you have only a few studies and the datafiles folder size is small enoughto be moved easily from one location to another.
 
