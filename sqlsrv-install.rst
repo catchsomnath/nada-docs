@@ -50,7 +50,7 @@ The steps are for version 2.0 but the same applies to version 3.0
 
 #. Browse to the PHP extension folder E.g. c:\php\ext.Notice there are multiple dll files included all referencing _sqlsrv. 
 
-   .. image:: images/multiple-php-dll.png
+.. image:: images/multiple-php-dll.png
 
 #. To find out which driver library is suitable for your version of PHP, create a php file using a text editor like Notepad e.g. info.php and place this code inside it: ::
 
@@ -62,7 +62,7 @@ The steps are for version 2.0 but the same applies to version 3.0
 	* Which compiler is used e.g. either VC9 or VC6
 	* Check whether Thread Safety is enabled or not. 
 
-	.. image:: images/php-compiler-thread.png
+.. image:: images/php-compiler-thread.png
 
 #. With the above values you would choose the file: 
 	php_sqlsrv_53_nts_vc9.dll
@@ -81,18 +81,18 @@ Testing the SQLSRV drivers and SQL Client
 
 To make sure the driver/extension is installed correctly. Reload the phpinfo page and check if the extension SQLSRV is listed on the page.
 
-	.. image:: images/sqlsrv-extention-test.png
+.. image:: images/sqlsrv-extention-test.png
 
 If the extension is not listed on the page, recheck if the correct php.ini file has been edited. To locate the php.ini file being used by PHP look at the output of the phpinfo page in the section shown below.
 
-	.. image:: images/php-ini-path.png
+.. image:: images/php-ini-path.png
 
 This step is only required if SQL Server is not on the same server as your web server. To check if the SQL Client is already installed or not, follow the steps below:
 
 1. Open Control Panel, Administrative Tools on your server
 2. Open ODBC and switch to the tab “Drivers”
 
-	.. image:: images/odbc-data-source.png
+.. image:: images/odbc-data-source.png
 
 Download the Microsoft SQL Client
 -----------------------------------
@@ -142,7 +142,7 @@ Running the installer
 
 * If the Microsoft database connection is setup correctly, you should see the nada installer.
 
-	.. image:: images/nada-installer.png
+.. image:: images/nada-installer.png
 
 * Check that all settings are marked with a green tick and fix any that are not on your webserver before running the installer.
 
@@ -152,8 +152,8 @@ Running the installer
 
 	Create a complex password of atleast 12 characters long with some uppercase, punctuation and numbers to aid security of your site. Do not forget this username and password!
 
-   .. image:: images/admin-account-image.png
+.. image:: images/admin-account-image.png
 	
 **Congratulations: Launch the new site**
 
-   .. image:: images/nada4-launch.png
+.. image:: images/nada4-launch.png
