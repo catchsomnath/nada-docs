@@ -58,13 +58,9 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
 
 **There are two options available:**
 
-**Option 1:**
+**Option 1:** Copy the datafiles folder from NADA 3 to NADA 4. This works best if you have only a few studies and the datafiles folder size is small enoughto be moved easily from one location to another.
 
-Copy the datafiles folder from NADA 3 to NADA 4. This works best if you have only a few studies and the datafiles folder size is small enoughto be moved easily from one location to another.
-
-**Option 2:**
-
-If it is not possible to easily move the datafiles folder from NADA 3 to NADA 4, you can tell NADA 4 the location of the datafiles without moving the files. Here are the steps:
+**Option 2:** If it is not possible to easily move the datafiles folder from NADA 3 to NADA 4, you can tell NADA 4 the location of the datafiles without moving the files. Here are the steps:
 
 * Use your NADA 3 administrator login credentials to login to your new NADA 4 site.
 
