@@ -5,7 +5,6 @@ Upgrade from NADA 3
 For users with an existing NADA 3.x catalog an upgrade script is included that will update your NADA 3.x database to NADA 4.x. The process involves modifying your NADA 3.x database and thus carries some risks. The script will add new tables to the NADA 3.x database. All user accounts and survey information will be retained by the upgrade.
 
 .. important::
-	
 	Backup the NADA 3.x database before doing anything!!
 
 1. Follow the instructions on page 4 and set up a folder in the web root containing the NADA 4 files.
