@@ -18,7 +18,7 @@ For users with an existing NADA 3.x catalog an upgrade script is included that w
 	
 	These can be found by looking at the existing NADA 3.x database.php file and entering the settings into the NADA 4 database.php file.
 	
-   .. image:: images/database-connection.png
+.. image:: images/database-connection.png
 
 4. Save the file.
 
@@ -81,8 +81,8 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
 
 * Check your new NADA 4 site to make sure the migration was successful
 
-A. Check the user administration page from site administration to make sure the users from the nada3 site were migrated.
+	A. Check the user administration page from site administration to make sure the users from the nada3 site were migrated.
 
-B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
+	B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
 
-C. Check the site menus are the same as the NADA 3 site.
+	C. Check the site menus are the same as the NADA 3 site.
