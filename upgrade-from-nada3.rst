@@ -81,8 +81,8 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
 
 * Check your new NADA 4 site to make sure the migration was successful
 
- A. Check the user administration page from site administration to make sure the users from the nada3 site were migrated.
+A. Check the user administration page from site administration to make sure the users from the nada3 site were migrated.
 
- B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
+B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
 
- C. Check the site menus are the same as the NADA 3 site.
+C. Check the site menus are the same as the NADA 3 site.
