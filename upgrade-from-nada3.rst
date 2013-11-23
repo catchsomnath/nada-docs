@@ -85,7 +85,6 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
   - Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
 
   - Check the site menus are the same as the NADA 3 site.
-
 =============
 Refresh DDI
 =============
