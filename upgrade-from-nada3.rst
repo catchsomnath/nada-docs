@@ -85,3 +85,18 @@ A. Check the user administration page from site administration to make sure the 
 B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
 
 C. Check the site menus are the same as the NADA 3 site.
+
+=============
+Refresh DDI
+=============
+In NADA 4, more information is stored in the database from the DDI than in the NADA 3. To bring all these new fields into the imported studies it is necessary to refresh the DDI’s. The refresh DDI feature in NADA updates the database with metadata from the DDI without having re-uploading the DDIs. 
+To update the metadata for all studies in your catalog:
+
+*	Open the following NADA 4 URL in your browser: 
+
+http://[your-nada-4-site]/index.php/admin/catalog/batch_refresh
+
+*	Select all studies
+
+*	Click on the “Refresh DDI” button
+
