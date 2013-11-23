@@ -85,9 +85,8 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
   - Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
 
   - Check the site menus are the same as the NADA 3 site.
-=============
 Refresh DDI
-=============
+----------------
 In NADA 4, more information is stored in the database from the DDI than in the NADA 3. To bring all these new fields into the imported studies it is necessary to refresh the DDI’s. The refresh DDI feature in NADA updates the database with metadata from the DDI without having re-uploading the DDIs. 
 To update the metadata for all studies in your catalog:
 
@@ -98,9 +97,9 @@ http://[your-nada-4-site]/index.php/admin/catalog/batch_refresh
 *	Select all studies
 
 *	Click on the “Refresh DDI” button
-======================
+
 Transferring ownership
-======================
+----------------
 
 NADA 4 has a collection management feature. When studies are imported from the NADA3 catalog into NADA4 they are put into a collection called DEFAULT. They need to be moved from this default system collection to the Central Data Catalog of the NADA4.
 
@@ -120,9 +119,9 @@ To do this:
 *	From the Transfer study owner page: Select Central Data Catalog and then click transfer.
 
 .. image:: images/select-collection.png 
-================================
+
 Updating the Site theme/template
-================================
+--------------------------------
 
 You cannot use your NADA3 template in NADA4 without making some changes. Here are general guidelines but steps may differ depending on your nada site template.
 
