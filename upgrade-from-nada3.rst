@@ -98,4 +98,42 @@ http://[your-nada-4-site]/index.php/admin/catalog/batch_refresh
 *	Select all studies
 
 *	Click on the “Refresh DDI” button
+======================
+Transferring ownership
+======================
 
+NADA 4 has a collection management feature. When studies are imported from the NADA3 catalog into NADA4 they are put into a collection called DEFAULT. They need to be moved from this default system collection to the Central Data Catalog of the NADA4.
+
+To do this:
+-----------
+
+*	Go login to the Site Administration and navigate to the Studies, Manage Studies, Central Data Catalog page
+
+.. image:: images/manage-studies.png
+
+*	Select all the studies by ticking the check boxes next to each study on the right.
+
+*	Click on the dropdown menu and select Transfer owner
+
+.. image:: images/transfer-study.png
+ 
+*	From the Transfer study owner page: Select Central Data Catalog and then click transfer.
+
+.. image:: images/select-collection.png 
+================================
+Updating the Site theme/template
+================================
+
+You cannot use your NADA3 template in NADA4 without making some changes. Here are general guidelines but steps may differ depending on your nada site template.
+
+*	Copy your NADA3 template to the NADA4 themes folder.
+
+*	Edit the [nada4-root]/config/template.php following the steps below:
+
+*	Look for the setting “theme_name”, by default it is set to ”wb”:
+
+*	 Change “wb” to the theme name you want to use. Theme name is the folder name you copied to [NADA4]/themes/[your-site-theme] from your nada3 site.
+
+*	Save the file.
+
+	NB: The template may need some adjusting to run properly on the new NADA 4 site. This will involve editing the layout.php and other template files within the template folder which is now located in the NADA 4 themes folder.
