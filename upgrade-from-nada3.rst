@@ -103,8 +103,7 @@ Transferring ownership
 
 NADA 4 has a collection management feature. When studies are imported from the NADA3 catalog into NADA4 they are put into a collection called DEFAULT. They need to be moved from this default system collection to the Central Data Catalog of the NADA4.
 
-To do this:
------------
+**To do this:**
 
 *	Go login to the Site Administration and navigate to the Studies, Manage Studies, Central Data Catalog page
 
