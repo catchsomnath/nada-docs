@@ -26,7 +26,7 @@ For users with an existing NADA 3.x catalog an upgrade script is included that w
 
 6. The following page loads:
 
-   .. image:: images/upgrade-database.png
+.. image:: images/upgrade-database.png
 
 Take note of the warnings and make any necessary corrections before
 clicking the “Upgrade database to NADA 4” button.
@@ -69,11 +69,11 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
 
 * Go to the “Settings” menu and click on the “Settings” sub-menu.
 
-   .. image:: images/settings-menu.png
+.. image:: images/settings-menu.png
 
 * Under Site configurations, expand the “Survey Catalog Settings” section
 
-   .. image:: images/survey-catalog-settings.png
+.. image:: images/survey-catalog-settings.png
 
 * For the setting “Catalog folder”, enter the relative or full path to where the NADA 3 datafiles folder is located. For example, if the nada3 datafiles are located on c:/nada3/datafiles, enter that path here.
 
@@ -81,8 +81,8 @@ The upgrade script has only upgraded the database. It is now necessary to tell t
 
 * Check your new NADA 4 site to make sure the migration was successful
 
-	A. Check the user administration page from site administration to make sure the users from the nada3 site were migrated.
+ A. Check the user administration page from site administration to make sure the users from the nada3 site were migrated.
 
-	B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
+ B. Check the “Data Catalog” page and view the studies by clicking on the study title to make sure the study information pages are correct.
 
-	C. Check the site menus are the same as the NADA 3 site.
+ C. Check the site menus are the same as the NADA 3 site.
