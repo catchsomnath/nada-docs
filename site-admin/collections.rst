@@ -20,7 +20,7 @@ Creating collections
 
 *	Collections are managed and created by going to the Studies, Manage collections menu link.
 
-.. image:: images/manage-studies.png
+.. image:: ../images/manage-studies.png
 
 *	There are no collections defined in the default NADA 4 installation. 
 
