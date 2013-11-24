@@ -34,10 +34,10 @@ Creating collections
 A.	Under Collection Identification, provide a short name for the collection. This will become the URL for the collection so pick carefully. For Title, fill in the fill title for the collection. This will be the name displayed at the top of the collection page.
 
 B.	Fill in a 3 or four line short description of the collection. This text will display on the front end in the collections list. For examples  see: 
- http://microdata.worldbank.org/index.php/contributing-catalogs
+http://microdata.worldbank.org/index.php/contributing-catalogs
 
 C.	Fill in a more detailed description of the collection. This will display on the About page for that collection. For example see:
- http://microdata.worldbank.org/index.php/catalog/dhs/about
+http://microdata.worldbank.org/index.php/catalog/dhs/about
 
 To format the page and include images it is possible to enter HTML code into this box: below is an example piece of code that includes an image.
 
@@ -56,7 +56,7 @@ D.	Upload a file to display next to the collection as it is listed on the collec
 E.	The Weight field determines in what order collections are shown in the collection list.  0,1,2,3 etc. 
 The Select collection type drop-down is a system value to distinguish between collections that should be viewed as internal to the organization or external. For example, some collections may be made up entirely of studies from an organization outside the host catalog. These collections can be designated as external. The Section dropdown allows for the categorization as either a collection based on a specialized collection (like health) or based on a regional breakdown. Selecting Publish – publishes the collection.
 
-	- Click on Submit to save the changes.
+- Click on Submit to save the changes.
 
 To view the results click on the Preview link on the far right:
 
