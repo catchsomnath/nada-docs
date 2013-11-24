@@ -358,7 +358,7 @@ The Request information tab shows a summary of the information provided by the a
 *	Select Update.
 
 The remaining tabs: 
-•	Communicate - provides a means to ask for more information from the applicant
-•	Monitor – allows the administrator to see when and how many times the applicant downloaded the data
-•	Forward Request – provides a means to forward the request to another person for review.
+-	Communicate - provides a means to ask for more information from the applicant
+-	Monitor – allows the administrator to see when and how many times the applicant downloaded the data
+-	Forward Request – provides a means to forward the request to another person for review.
 
