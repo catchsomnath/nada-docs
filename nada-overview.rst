@@ -357,8 +357,8 @@ The Request information tab shows a summary of the information provided by the a
 *	Select Notify user by email to notify them that the application has been processed.
 *	Select Update.
 
-The remaining tabs: 
--	Communicate - provides a means to ask for more information from the applicant
--	Monitor – allows the administrator to see when and how many times the applicant downloaded the data
--	Forward Request – provides a means to forward the request to another person for review.
+A. The remaining tabs: 
+	-	Communicate - provides a means to ask for more information from the applicant
+	-	Monitor – allows the administrator to see when and how many times the applicant downloaded the data
+	-	Forward Request – provides a means to forward the request to another person for review.
 
