@@ -325,3 +325,40 @@ The Study is now published and is visible to the users on the frontend. The rema
 To Delete a study use the Delete Study link on the right of the study information page or use the delete link on the manage studies list page either directly or through the batch actions box.
 
 .. image:: images/delete-study.png
+
+**Managing Licensed Requests**
+Datasets that are assigned the Access Type Licensed require approval from the NADA administrator before the user can get access to the data files.
+From the site administration there are a number of ways to see if any licensed requests have been received.
+
+*	Go to the dashboard. Pending requests show up as red in the catalog quicj summary section. Clicking on this link goes to the Licensed Survey Requests management page.
+
+.. image:: images/pending-request.png
+
+*	Or go to the Studies link on the top menu and select Licensed Requests from the submenu.
+
+.. image:: images/license-request.png
+
+The link shows a page with a list Licensed Requests received. The status column indicated the Pending requests.
+
+.. image:: images/pending-request-status.png
+ 
+*	Click on the Edit link for to process a request.
+The Request information tab shows a summary of the information provided by the applicant.
+
+.. image:: images/edit-licensed-request.png 
+
+*	To Approve or Deny or request further information for the request. Click on the Process tab. 
+
+.. image:: images/process-tab.png 
+ 
+*	Select Approve to approve the request. (other options include Deny as well as Request more information from the applicant).
+*	Select the files that the user will be authorized to download – it is also possible to enter a maximum number of downloads and expiry date for downloads.
+*	Enter any comments to be sent to the applicant
+*	Select Notify user by email to notify them that the application has been processed.
+*	Select Update.
+
+The remaining tabs: 
+•	Communicate - provides a means to ask for more information from the applicant
+•	Monitor – allows the administrator to see when and how many times the applicant downloaded the data
+•	Forward Request – provides a means to forward the request to another person for review.
+
