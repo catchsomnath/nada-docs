@@ -213,6 +213,7 @@ The quickest way to test if the email settings are working is to use the “forg
 Dashboard setting
 ------------------
 Provides a means to automatically have content loaded into the dashboard via an RSS feed from a site. The default setting is set to receive updates and news from the IHSN website.
+
 .. image:: images/dashboard-rss.png
 
 Uploading Studies
