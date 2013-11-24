@@ -298,7 +298,9 @@ Before publishing the study four more steps need to be covered. These involve se
 
 .. image:: images/data-access.png
  
-A.	Click on the .. image:: images/edit.png  next to “Data Access” and select the appropriate data access type for the data. Click update.
+A.	Click on the edit (shown in below image)  next to “Data Access” and select the appropriate data access type for the data. Click update.
+
+.. image:: images/edit.png
 
 B.	Click on the Generate PDF link to generate the metadata in PDF. 
 
