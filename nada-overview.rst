@@ -99,9 +99,7 @@ The Site Settings Page
 
 All settings for the application are controlled via the Settings menu at the top of the Site Administration page. There are seven main settings sections: See screenshot below.
 
-PHOTO-PAGE-36
-
-
+.. image:: images/site-configuration.png
 
 General Settings
 -----------------------
