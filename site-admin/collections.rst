@@ -24,11 +24,11 @@ Creating collections
 
 *	There are no collections defined in the default NADA 4 installation. 
 
-.. image:: images/no-collection.png
+.. image:: ../images/no-collection.png
 
 *	To create a new collection click on the Create new collection button.
 
-.. image:: images/new-collection.png
+.. image:: ../images/new-collection.png
 
  
 A.	Under Collection Identification, provide a short name for the collection. This will become the URL for the collection so pick carefully. For Title, fill in the fill title for the collection. This will be the name displayed at the top of the collection page.
@@ -47,11 +47,11 @@ To format the page and include images it is possible to enter HTML code into thi
 <p>Health surveys provide useful information on health status and health consumption and their determinants.</p>
 
 Copy any images to be displayed  into the NADA “files” folder on your server 
-.. image:: images/thumbnil-image.png
+.. image:: ../images/thumbnil-image.png
 
 D.	Upload a file to display next to the collection as it is listed on the collection page. NOTE: This image should be 82 X 82 pixels. If the upload does not work automatically then copy the thumbnail image to the “files” folder as shown above.
 
-.. image:: images/thumbnil-preview.png
+.. image:: ../images/thumbnil-preview.png
 
 E.	The Weight field determines in what order collections are shown in the collection list.  0,1,2,3 etc. 
 The Select collection type drop-down is a system value to distinguish between collections that should be viewed as internal to the organization or external. For example, some collections may be made up entirely of studies from an organization outside the host catalog. These collections can be designated as external. The Section dropdown allows for the categorization as either a collection based on a specialized collection (like health) or based on a regional breakdown. Selecting Publish – publishes the collection.
@@ -60,13 +60,13 @@ The Select collection type drop-down is a system value to distinguish between co
 
 To view the results click on the Preview link on the far right:
 
-.. image:: images/collection-preview-link.png
-.. image:: images/collection-preview.png
+.. image:: ../images/collection-preview-link.png
+.. image:: ../images/collection-preview.png
  
 *	The new collection now also shows in the collection list on the Central Catalog About page (this is where the thumbnail and short description fields are displayed).
 
-.. image:: images/collection-list.png
+.. image:: ../images/collection-list.png
 
 *	Visiting the Dashboard will now also show the new collection listed below the Central Data Catalog. With a number of green buttons as shortcut links to manage the studies on the collection, assign administrators for the collection, a history of activity on the collection and a link to edit the collection as in the steps above.
  
-.. image:: images/collection-in-dashboard.png
+.. image:: ../images/collection-in-dashboard.png

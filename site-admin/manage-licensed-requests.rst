@@ -4,24 +4,24 @@ From the site administration there are a number of ways to see if any licensed r
 
 *	Go to the dashboard. Pending requests show up as red in the catalog quicj summary section. Clicking on this link goes to the Licensed Survey Requests management page.
 
-.. image:: images/pending-request.png
+.. image:: ../images/pending-request.png
 
 *	Or go to the Studies link on the top menu and select Licensed Requests from the submenu.
 
-.. image:: images/license-request.png
+.. image:: ../images/license-request.png
 
 The link shows a page with a list Licensed Requests received. The status column indicated the Pending requests.
 
-.. image:: images/pending-request-status.png
+.. image:: ../images/pending-request-status.png
  
 *	Click on the Edit link for to process a request.
 The Request information tab shows a summary of the information provided by the applicant.
 
-.. image:: images/edit-licensed-request.png 
+.. image:: ../images/edit-licensed-request.png 
 
 *	To Approve or Deny or request further information for the request. Click on the Process tab. 
 
-.. image:: images/process-tab.png 
+.. image:: ../images/process-tab.png 
  
 *	Select Approve to approve the request. (other options include Deny as well as Request more information from the applicant).
 *	Select the files that the user will be authorized to download – it is also possible to enter a maximum number of downloads and expiry date for downloads.

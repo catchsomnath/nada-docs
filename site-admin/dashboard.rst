@@ -6,7 +6,7 @@ After logging in to the Site Administration with administrator credentials the u
 
 The Dashboard provides a quick glance summary for administrators to get an overall picture of what has been happening on the site as well as what pending tasks are outstanding for the administrator. 
 
-.. image:: images/dashboard-overview.png
+.. image:: ../images/dashboard-overview.png
  
 A.	Menu link to the Dashboard
 B.	Menu link to the Study Management pages, submenus include: Manage Studies, Licensed requests and Manage Collections
