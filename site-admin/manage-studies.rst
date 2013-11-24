@@ -10,7 +10,7 @@ There are 2 ways to get studies into the new catalog:
  
 *	Once a study is added in this way it displays in the Manage Studies list. Notice that the collection summary field shows that the study belongs to (is Owned By) the DHS collection (this was the Short name defined in the example when the Health Surveys Collection was created).
 
-* Also, note that the new study also appears in the Central Data Catalog
+* Also, note that the new study also appears in the Central Data Catalog
  
 All studies uploaded to collections will automatically be added to the Central Data Catalog in order to build a common search portal for all studies.
 
