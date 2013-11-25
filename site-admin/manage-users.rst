@@ -4,11 +4,11 @@ Managing Users and account types
 
 Users in the NADA can be defined according to three broad groups:
 
-**	General Users **– this is the normal user who registers on a NADA site from the user interface. This user type has no access to the site administration. It is required to register as a user before being granted access to public use and licensed data types.
+**General Users**– this is the normal user who registers on a NADA site from the user interface. This user type has no access to the site administration. It is required to register as a user before being granted access to public use and licensed data types.
 
-**	Site Administrators (unlimited)** – this user has access to all functions and all collections within the Site Administration. System wide access.
+**Site Administrators (unlimited)** – this user has access to all functions and all collections within the Site Administration. System wide access.
 
-**	Limited Administrators ** – these administrators have access to a limited set of functions within the Site Administration. Examples would be an administrator of a specific collection\s, or licensed survey reviewer for all or only some collections, or report generator, or citation manager etc.
+**Limited Administrators** – these administrators have access to a limited set of functions within the Site Administration. Examples would be an administrator of a specific collection\s, or licensed survey reviewer for all or only some collections, or report generator, or citation manager etc.
  
 
 Creating User accounts
