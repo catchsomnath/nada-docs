@@ -100,7 +100,7 @@ The system includes a function that allows a Site Administrator to impersonate (
 
 *	A list of users to impersonate is shown. 
 
-.. image:: ../images/litofuser.png
+.. image:: ../images/listofuser.png
 
 *	Select the user to impersonate and click on the impersonate button.
 
