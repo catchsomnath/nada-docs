@@ -1,4 +1,7 @@
-**Managing Licensed Requests**
+================
+Managing Licensed Requests
+================
+
 Datasets that are assigned the Access Type Licensed require approval from the NADA administrator before the user can get access to the data files.
 From the site administration there are a number of ways to see if any licensed requests have been received.
 
