@@ -11,8 +11,8 @@ B. Go to [your-nada-site]/index.php/translate. If you are not already logged in 
 
 C. Choose language to edit:  “Template language” is a language that already exists in NADA and is chosen as a translation template. “Select the language to edit” is the language that you want to change with your own translations. 
 
-  * a.	For example, if you want to create a Chinese NADA edition and use the existing English version as a template, you will put English as the template language and Chinese as the language to edit. After picking the languages, press the Select button. 
-  * b.	In case you use English as your site language and would like to change the translations for English, choose English for both “template language” and “language to edit” drop downs.
+* a.	For example, if you want to create a Chinese NADA edition and use the existing English version as a template, you will put English as the template language and Chinese as the language to edit. After picking the languages, press the Select button. 
+* b.	In case you use English as your site language and would like to change the translations for English, choose English for both “template language” and “language to edit” drop downs.
   
 .. image:: images/translate.png
 
