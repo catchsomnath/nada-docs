@@ -18,7 +18,7 @@ E.	Click on update
 
 F.	You will find below screen after creating new bulk collection
 
-.. image:: images/attached-studies-bulk.png
+.. image:: images/attach-studies-bulk.png
 
 G.	Click on “Attach Study”
 
