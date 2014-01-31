@@ -7,6 +7,30 @@ Many of the functions within the NADA – such as registration and applying for 
 
 There are two ways to setup your email configurations. 1) Create a email.php file in the application/config folder 2) Edit email settings on the site configurations page.
 
+-------------------------------------------
+1. Configure email via email config file
+-------------------------------------------
+
+A. Open the file application/config/email.php in notepad
+
+B. Fill in the section using SMTP server with authentication enabled highlighted in below image
+
+.. image:: images/smtp-config.png
+
+C. For Gmail user will have to fill the gmail smtp section shown as below
+
+.. image:: images/gmail-email-config.png
+
+D. Save file
+
+.. Note::
+	Using a file for email configuration disable the email configuration page from the site administration.
+
+
+-------------------------------------------
+2. Configure email via site administration
+-----------------------------------------------
+
 A.	Login to your NADA as an administrator
 
 B.	Go to Site administration, click on the Settings menu and choose “Settings”
