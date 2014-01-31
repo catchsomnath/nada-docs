@@ -9,7 +9,7 @@ A.	Login to your NADA as an administrator
 
 B.	Go to Site administration, click on the Settings menu and choose “Settings”
 
-C	Find the section “SMTP settings”
+C.	Find the section “SMTP settings”
 
 .. image:: images/smtp-settings.png
 
