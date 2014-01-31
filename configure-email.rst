@@ -5,6 +5,8 @@ For the NADA to function correctly it is important that this step be completed.
 
 Many of the functions within the NADA – such as registration and applying for access to datasets require that the NADA be able to send emails to users. 
 
+There are two ways to setup your email configurations. 1) Create a email.php file in the application/config folder 2) Edit email settings on the site configurations page.
+
 A.	Login to your NADA as an administrator
 
 B.	Go to Site administration, click on the Settings menu and choose “Settings”
