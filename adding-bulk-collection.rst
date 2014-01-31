@@ -20,7 +20,7 @@ F.	You will find below screen after creating new bulk collection
 
 .. image:: images/attach-studies-bulk.png
 
-G.	Click on “Attach Study”
+G.	Click on “Attach Studies”
 
 .. note::		
 	You can only attached studies having “License Data Access” type. Please make sure that study must be belongs to at least one collection
