@@ -47,7 +47,7 @@ column name” or “Duplicate entry”.
 
 Now your database has been migrated to NADA version 4.1. We will have to run one more upgrade script to for NADA version 4.2
 
-7. Navigate to the URL for the NADA4.2 site: Example: http://your-nada-site/nada42/index.php/nada42_upgrade
+7. Navigate to the URL for the NADA4.2 site: Example: http://your-nada-site/nada42/index.php/nada42_upgrade/run
 
 .. warning:: This step makes changes to your nada 4.1 database that are not undo-able. This page will not show any message on the screen. You will be getting blank page. Please do not repeat the process
 
