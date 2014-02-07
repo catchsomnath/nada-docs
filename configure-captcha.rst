@@ -8,7 +8,7 @@ A.	Open application/config/captcha.php in editor
 
 B.	Change line number 12 as shown in below image
 
-.. image:: images/ts_login.png
+.. image:: images/captcha_options.png
 
 C.	Click on above URL to generate Public and Private key URL: http://www.google.com/recaptcha/whyrecaptcha
 
