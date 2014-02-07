@@ -30,9 +30,7 @@ For users with an existing NADA 3.x catalog an upgrade script is included that w
 Take note of the warnings and make any necessary corrections before
 clicking the “Upgrade database to NADA 4” button.
 
-Warning: This step makes changes to your nada 3 database that are not
-undo-able so make sure you do make a database backup before this
-step.
+.. warning:: This step makes changes to your nada 3 database that are not undo-able so make sure you do make a database backup before this step.
 
 Click on the “Upgrade database to NADA 4” button and wait for the page to
 reload. The output of the page will look something like below:
@@ -47,7 +45,13 @@ NADA 3 database already has that field then it reports it as an error.
 You can ignore the error messages that include the wording “Duplicate
 column name” or “Duplicate entry”.
 
-Verify the database upgrade. Open the NADA catalog page by going to
+Now your database has been migrated to NADA version 4.1. We will have to run one more upgrade script to for NADA version 4.2
+
+7. Navigate to the URL for the NADA4.2 site: Example: http://your-nada-site/nada42/index.php/nada42_upgrade
+
+.. warning:: This step makes changes to your nada 4.1 database that are not undo-able. This page will not show any message on the screen. You will be getting blank page. Please do not repeat the process
+
+8. To verify the database upgrade. Open the NADA catalog page by going to
 http://[your-nada4-site]/index.php/catalog page and verify all studies from
 NADA 3 are listed.
 
